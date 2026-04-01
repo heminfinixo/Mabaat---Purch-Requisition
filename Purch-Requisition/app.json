@@ -1,0 +1,44 @@
+{
+  "id": "530d4e56-4db0-401a-9de2-fd4f017125b7",
+  "name": "Purchase Requisition",
+  "publisher": "Infinixo Technologies",
+  "version": "1.0.0.3",
+  "brief": "",
+  "description": "BC 27 compatibility update",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "./logo/infinixo.png",
+  "dependencies": [
+     {
+    "id": "63ca2fa4-4f03-4f2b-a480-172fef340d3f",
+    "publisher": "Microsoft",
+    "name": "System Application",
+    "version": "27.4.0.0"
+  },
+  {
+    "id": "f3552374-a1f2-4356-848e-196002525837",
+    "publisher": "Microsoft",
+    "name": "Business Foundation",
+    "version": "27.4.0.0"
+  },
+  {
+    "id": "437dbf0e-84ff-417a-965d-ed2bb9650972",
+    "publisher": "Microsoft",
+    "name": "Base Application",
+    "version": "27.4.0.0"
+  }
+  ],
+  "screenshots": [],
+  "platform": "27.0.0.0",
+  "application": "27.4.0.0",
+  "idRanges": [
+    {
+      "from": 50150,
+      "to": 50180
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://PRv16.com/help/",
+  "runtime": "15.0"
+}
